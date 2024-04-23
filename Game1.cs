@@ -7,6 +7,7 @@ namespace Monogame_1___Assignment
 {
     public class Game1 : Game
     {
+        //Naqi Master
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
